@@ -175,3 +175,21 @@ p {
         transform:rotate(0);
     }
 }
+
+/** image alignment **/
+
+img {
+    width: 45%;
+    height: 50%;
+    vertical-align: middle;
+  }
+  
+  .pics_in_a_row {
+    display: flex;
+  }
+  
+  .bryan-img { flex: 1.3344; }
+  .pickeringb-img { flex: 1.3345; }
+  .pickeringb2-img { flex: 0.7505; }
+  .rafsimons-img{ flex: 1.5023; }
+  
