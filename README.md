@@ -1,5 +1,5 @@
 # first-css-website
-This is my first ever attempt at making a front end css website and adventure towards web development. Have a glance!
+This is my first ever attempt at making a front end website and adventure towards web development. Have a glance!
 https://mxlloe.github.io/first-css-website/
 
 
