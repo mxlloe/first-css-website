@@ -107,6 +107,12 @@ h3 {
 
 }
 
+.rafsimons {
+    padding-top: 20px;
+    width: 30%;
+    margin: auto;
+}
+
 p {
     line-height: 2;
 }
@@ -183,13 +189,10 @@ img {
     height: 50%;
     vertical-align: middle;
   }
+
   
-  .pics_in_a_row {
-    display: flex;
-  }
-  
-  .bryan-img { flex: 1.3344; }
-  .pickeringb-img { flex: 1.3345; }
-  .pickeringb2-img { flex: 0.7505; }
-  .rafsimons-img{ flex: 1.5023; }
+  .bryan-img { flex: 1.3344; padding-top: 20px; padding-bottom: 20px;}
+  .pickeringb-img { flex: 1.3345; padding-top: 20px; padding-bottom: 20px;}
+  .pickeringb2-img { flex: 0.7505; padding-top: 20px; padding-bottom: 20px;}
+  .rafsimons-img{ flex: 1.5023; padding-top: 20px; padding-bottom: 20px;}
   
